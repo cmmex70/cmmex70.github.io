@@ -5062,14 +5062,14 @@ div.language-terminal td:first-child .lineno {
 }
 
 #sidebar .sidebar-bottom {
-    padding-left: 2rem;
+    padding-left: 5rem;
     padding-right: 1rem;
     margin-bottom: 1.5rem
 }
 
 @media all and (min-width: 1650px) {
     #sidebar .sidebar-bottom {
-        padding-left: 2.75rem;
+        padding-left: 6.75rem;
         margin-bottom: 1.75rem
     }
 }
